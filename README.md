@@ -2,7 +2,7 @@
 - 👀 I’m interested in finding an entry level coding job in any field!
 - 🌱 I’m currently learning how to create a genomic analysis program and working my way through data structures and algorithms in many different languages.
 - 💞️ I’m looking to collaborate on anything anyone wants to throw my way. I'd like to help with embedded projects especially!
-- 📫 How to reach me, you can reach me at Nathantburgess@gmail.com, 253-878-2253, or through here!
+- 📫 How to reach me, you can reach me through here!
 
 <!---
 NathanTBurgess/NathanTBurgess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
