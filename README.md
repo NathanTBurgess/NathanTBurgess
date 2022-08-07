@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NathanTBurgess
 - 👀 I’m interested in finding an entry level coding job in any field!
-- 🌱 I’m currently learning how to create a genomic analysis program and working my way through data structures and algorithms in many different languages.
+- 🌱 I’m currently creating a website for a general store and working my way through data structures and algorithms in many different languages.
 - 💞️ I’m looking to collaborate on anything anyone wants to throw my way. I'd like to help with embedded projects especially!
 - 📫 How to reach me, you can reach me through here!
 
